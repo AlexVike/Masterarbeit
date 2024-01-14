@@ -1,0 +1,58 @@
+Timestamp,Role,Message
+"14:56, 20.9.2023",Forscher,"Hallo und herzlich willkommen! Ich bin Mila, dein Lerncoaching Chatbot. Es ist mir eine Freude, dich auf deiner individuellen Lernreise zu unterstützen. Ich stehe für Hilfe zur Selbsthilfe. Wir werden also nicht vorgefertigte Lösungen durchgehen, sondern ich werde dich dazu ermutigen, deine eigenen Antworten zu finden. Ich bin eine Art Trainer. So wie im Sport stehe ich als Coach am Rand des Spielfeldes, der Sportler bist Du. Du machst Dein Spiel, und wir schauen darauf, was Du verbessern kannst und wie Du es verbessern kannst. Unsere gemeinsame Arbeit ist in fünf Phasen unterteilt, durch die wir Schritt für Schritt gehen werden. Solltest du währenddessen Fragen haben oder auf Probleme stoßen, wende dich gerne an den zuständigen Betreuer. Bereit? Dann lass uns beginnen. Zunächst wollen wir uns über deine Erwartungen und Ziele austauschen. Möchtest du etwas bezüglich deines bevorstehenden Kurses besprechen, oder gibt es andere Fragen oder Anliegen, die du gerne ansprechen möchtest?"
+"15:00, 20.9.2023",Teilnehmende Person,"Hallo Mila, in der kommenden Prüfungsphase erwartet mich eine sehr schwere Prüfung. Ich habe Angst, dass ich durchfalle, da ich den Lernstoff nicht ausreichend verstanden habe."
+"15:01, 20.9.2023",Forscher,"Ich verstehe, du machst dir Sorgen, weil du den Lernstoff möglicherweise nicht ausreichend verstanden hast und deshalb befürchtest, durchzufallen."
+"15:01, 20.9.2023",Teilnehmende Person,"Genau, hast du diesbezüglich eine Hilfestellung?"
+"15:02, 20.9.2023",Forscher,Wir können uns gerne das Problem gemeinsam anschauen. Gab es solche Situationen in der Vergangenheit?
+"15:03, 20.9.2023",Teilnehmende Person,In meinem Studium gab es dieses Problem bereits öfter. Vor allem vor den schwierigen und wichtigen Prüfungen
+"15:04, 20.9.2023",Forscher,Ich verstehe. Wie bist du in solchen Situationen damit umgegangen?
+"15:07, 20.9.2023",Teilnehmende Person,"Ich habe versucht mich bestmöglich auf die Prüfung vorzubereiten. Das kostet jedoch sehr viel Energie und Zeit, da man sich ja noch auf weitere Prüfungen vorbereiten muss. Dadurch sinkt natürlich auch die Motivation."
+"15:08, 20.9.2023",Forscher,"Ich verstehe. Du hast eine erhebliche Menge an Energie und Zeit investieren müssen, und die zusätzlichen Prüfungen haben deine Motivation ebenfalls beeinflusst."
+"15:08, 20.9.2023",Forscher,"Wenn morgen eine gute Fee auftaucht und dir bei deinem Problem behilflich ist, was würde sich verändern?"
+"15:11, 20.9.2023",Teilnehmende Person,Entweder würde ich die Motivation oder das nötige Durchhaltvermögen erhalten um mich ausreichend auf die Prüfungen vorzubereiten. Oder die Anzahl oder die Komplexibilität der Prüfungen würde reduziert werden.
+"15:12, 20.9.2023",Forscher,Hast du Einfluss auf das Erstgenannte oder das Zweitgenannte?
+"15:13, 20.9.2023",Teilnehmende Person,"Auf ersteres ja, auf zweiteres nein."
+"15:13, 20.9.2023",Forscher,"Wenn du dich mit Kommilitonen über die Vorlesung und die Klausur unterhältst, wie äußern sie sich dazu? Sind sie motiviert?"
+"15:14, 20.9.2023",Teilnehmende Person,"Viele haben das selbe Problem, da die Prüfung einfach sehr anspruchsvoll ist."
+"15:15, 20.9.2023",Forscher,"Hattest du schon einmal eine Prüfung, bei der du dachtest, dass du Schwierigkeiten haben würdest, aber du konntest sie dennoch erfolgreich bewältigen?"
+"15:16, 20.9.2023",Teilnehmende Person,Ja das ist auch schon vorgekommen.
+"15:17, 20.9.2023",Forscher,"Was war in dieser Situation der Schlüssel zum Erfolg, und was kannst du daraus für die nächste Prüfung lernen?"
+"15:18, 20.9.2023",Teilnehmende Person,"Naja, ich habe mich durchgebissen und hatte auch eventuell glück bei der Prüfung."
+"15:20, 20.9.2023",Forscher,Kann man das Durchbeißen auch als eine Form von Stärke und Ressource betrachten?
+"15:21, 20.9.2023",Teilnehmende Person,"Ja, finde ich schon. Solang das Ergebnis zufriedenstellend ist und man sich auf dem weg nicht verliert."
+"15:21, 20.9.2023",Forscher,Vielen Dank für die umfangreichen Informationen und die ersten Vorschläge zu deinem Thema.
+"15:21, 20.9.2023",Forscher,"Auf einer Skala von 1 bis 10, wie wichtig ist dieses Thema für dich?"
+"15:21, 20.9.2023",Teilnehmende Person,10
+"15:22, 20.9.2023",Forscher,"Also eine 10. Wie ich sehe, ist das Thema  sehr wichtig für dich. Ist es für dich in Ordnung, wenn wir auf Basis dieses Themas ein konkretes Ziel für dich formulieren?"
+"15:22, 20.9.2023",Teilnehmende Person,Ja
+"15:22, 20.9.2023",Forscher,"Ich möchte nun mit dir ein Ziel formulieren. Zielformulierung im Lerncoaching bietet Klarheit, fördert die Motivation und ermöglicht eine messbare Überwachung des Fortschritts.  Hört sich das gut an?"
+"15:22, 20.9.2023",Teilnehmende Person,Ja
+"15:22, 20.9.2023",Forscher,"Super! Um ein Ziel genau formulieren zu können möchte ich mit dir die SMART – Regel verwenden. SMART ist ein Akronym und steht für: Spezifisch, Messbar, Anspruchsvoll/Attraktiv, Realistisch und Terminiert. Lass uns die einzelnen Schritte einmal gemeinsam durchgehen."
+"15:22, 20.9.2023",Forscher,1.	Was genau möchtest du in deinen eigenen Worten erreichen?
+"15:23, 20.9.2023",Teilnehmende Person,"In der kommenden Prüfungsphase motiviert sein, unabhängig von Anzahl und der Schwierigkeit der Prüfungen."
+"15:23, 20.9.2023",Forscher,"2.	Woran würdest du merken, dass du dein Ziel erreicht hast?"
+"15:24, 20.9.2023",Teilnehmende Person,In dem ich alle Prüfungen bestehe und das mit einer ausreichend zufriedenstellender Note.
+"15:25, 20.9.2023",Forscher,"Was genau bedeutet für dich ""zufriedenstellend""?"
+"15:25, 20.9.2023",Teilnehmende Person,Mit einer 3 und besser.
+"15:25, 20.9.2023",Forscher,Vielen Dank. 3.	Warum ist dieses Ziel wichtig für dich?
+"15:25, 20.9.2023",Teilnehmende Person,Da es um meine berufliche Zukunft geht.
+"15:26, 20.9.2023",Forscher,4.	Ist das Ziel realistisch für dich?
+"15:26, 20.9.2023",Teilnehmende Person,Ja
+"15:26, 20.9.2023",Forscher,5.	Bis wann möchtest du dein Ziel erreicht haben?
+"15:26, 20.9.2023",Teilnehmende Person,Bis zur nächsten Prüfungsphase
+"15:26, 20.9.2023",Forscher,"Vielen Dank für deine Antworten! Lass uns nun die gesammelten Informationen in einem oder maximal zwei Sätzen zusammenfassen. Hier ist ein Beispiel für dich: Innerhalb der nächsten sechs Monate strebe ich an, durch regelmäßiges Üben und basierend auf meinen Grundkenntnissen (spezifisch), einen fließenden fünfminütigen Vortrag auf Spanisch zu halten (messbar), um im nächsten Urlaub in Spanien selbstbewusst kommunizieren zu können (anspruchsvoll und attraktiv), mit der Grundlage meiner aktuellen Kenntnisse (realistisch). Bitte schreibe nun dein eigenes konkretes SMARTes Ziel auf. Wenn du Unterstützung brauchst, kannst du dies gerne äußern."
+"15:30, 20.9.2023",Teilnehmende Person,"Innerhalb der nächsten sechs Monate strebe ich an, durch regemäßiges Lernen und Üben den Stoff ausreichende zu vertiefen, damit ich in der kommenden Prüfungsphase weniger Stress habe. Dadurch verliere ich nicht so schnell die Motivation und kann gute Ergebnisse erzielen (realistisch)."
+"15:31, 20.9.2023",Forscher,Vielen Dank. Wie definierst du genau regelmäßiges Lernen?
+"15:32, 20.9.2023",Teilnehmende Person,Den Stoff bis zur nächsten Stunde zu Wiederholen.
+"15:32, 20.9.2023",Forscher,"Prima! Ich danke dir für deine aktive Mitarbeit. Zum Abschluss besprechen wir gemeinsam, wie du dein definiertes Ziel in die Praxis umsetzen kannst. Wie kannst du dein formuliertes Ziel im Alltag umsetzen? Was wäre ein erster kleiner Schritt?"
+"15:33, 20.9.2023",Teilnehmende Person,Mich durch Kalendereinträge ans lernen zu erinnern
+"15:34, 20.9.2023",Forscher,Wie genau würde das funktionieren?
+"15:35, 20.9.2023",Teilnehmende Person,Durch gewissenhafte Pflege meines Kalenders
+"15:36, 20.9.2023",Forscher,Das hört sich schon sehr gut an. Wann möchtest du damit anfangen?
+"15:36, 20.9.2023",Teilnehmende Person,Sobald das Semester beginnt.
+"15:36, 20.9.2023",Forscher,"Wenn du dir vorstelllst die Prüfung ist vorbei und du hast sie gut bestanden ohne dich wegen den anderern Prüfungen zu stressen, wie würde sich das anfühlen?"
+"15:37, 20.9.2023",Teilnehmende Person,Ich hoffe sehr gut
+"15:37, 20.9.2023",Forscher,Das freut mich!
+"15:37, 20.9.2023",Forscher,"Vielen Dank für deine Lösungsvorschläge. Ich wünsche dir viel Erfolg bei der Umsetzung deines Zieles! Zum Schluss möchte ich unsere gemeinsame Arbeit zusammenfassen. Wir haben gemeinsam dein Anliegen herausgefunden und so dein persönliches Ziel formuliert: „Innerhalb der nächsten sechs Monate strebe ich an, durch regemäßiges Lernen und Üben den Stoff ausreichende zu vertiefen, damit ich in der kommenden Prüfungsphase weniger Stress habe. Dadurch verliere ich nicht so schnell die Motivation und kann gute Ergebnisse erzielen (realistisch).“. Auf Basis dieses Zieles hast du schon Ideen präsentiert, wie man das Ziel im Alltag umsetzen kann. Hast du zum Abschluss noch einen Wunsch oder Feedback an mich?"
+"15:38, 20.9.2023",Teilnehmende Person,Danke für die Hilfe 😌
+"15:38, 20.9.2023",Forscher,Wende dich nun an den Betreuer.

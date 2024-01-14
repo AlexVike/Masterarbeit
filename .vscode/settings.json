@@ -1,0 +1,12 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "[python]":{
+        "diffEditor.ignoreTrimWhitespace": false,
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ],
+        "editor.formatOnType": false,
+        "editor.wordBasedSuggestions": "off",
+        "editor.formatOnSave": true
+    }
+}

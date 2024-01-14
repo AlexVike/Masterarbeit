@@ -1,0 +1,63 @@
+Timestamp,Role,Message
+"11:36, 15.9.2023",Forscher,"Hallo und herzlich willkommen! Ich bin Mila, dein Lerncoaching Chatbot. Es ist mir eine Freude, dich auf deiner individuellen Lernreise zu unterstützen."
+"11:41, 15.9.2023",Teilnehmende Person,"Da der Stoff sehr umfangreich ist und Aufgaben beinhaltet, weiß ich nicht, wie ich vorgehen soll. Zu jedem Kapitel im Anschluss die Aufgaben bearbeiten oder zunächst den gesamten Stoff durchgehen?"
+"11:42, 15.9.2023",Forscher,"Ich verstehe, der Kurs ist also sehr umfangreich. Du fragst dich, wie du am besten vorgehen könntest, richtig?"
+"11:42, 15.9.2023",Teilnehmende Person,Genau
+"11:43, 15.9.2023",Forscher,Gab es in der Vergangenheit solche Situationen schon?
+"11:43, 15.9.2023",Teilnehmende Person,Ja
+"11:43, 15.9.2023",Forscher,Wie bist du zu der Zeit vorgegangen?
+"11:44, 15.9.2023",Teilnehmende Person,Ich habe eine Zusammenfassung geschrieben und versucht komplett auswendig zu lernen
+"11:44, 15.9.2023",Forscher,Warst du mit der Vorgehensweise zufrieden?
+"11:44, 15.9.2023",Teilnehmende Person,"Nicht wirklich, da ich teilweise den Überblick verloren habe"
+"11:45, 15.9.2023",Forscher,"Was müsste sich ändern, damit das nicht mehr passiert?"
+"11:46, 15.9.2023",Teilnehmende Person,"Den Stoff vermutlich besser unterteilen und strukturieren, sowohl inhaltlich als auch vom Lernmaterial?"
+"11:47, 15.9.2023",Forscher,"Ich verstehe, du denkst, es wäre besser, den Inhalt besser zu strukturieren?"
+"11:47, 15.9.2023",Teilnehmende Person,Ja
+"11:47, 15.9.2023",Forscher,"Wie fühlt es sich an, wenn du darüber nachdenkst, den Stoff besser zusammenzufassen? Ist das realistisch?"
+"11:48, 15.9.2023",Teilnehmende Person,"Ja, wenn ich genug Zeit habe"
+"11:48, 15.9.2023",Forscher,Wie schätzt du deine Zeit für den Kurs ein?
+"11:50, 15.9.2023",Teilnehmende Person,"Vermutlich weniger, als ich brauchen werde"
+"11:51, 15.9.2023",Forscher,"Wenn morgen eine gute Fee käme und dir einen Wunsch bezüglich des Kurses erfüllen würde, was würde sich verändern?"
+"11:52, 15.9.2023",Teilnehmende Person,Dass der Stoff eingeschränkt wird
+"11:53, 15.9.2023",Forscher,"Gibt es eine Möglichkeit, dies mithilfe von Priorisierungen des Stoffes für dich umzusetzen?"
+"11:54, 15.9.2023",Teilnehmende Person,Das kann ich leider nicht einschätzen
+"11:54, 15.9.2023",Forscher,"Wenn du einen Kommiltionen oder Komilitonnin fragen würdest, wie würden die mit so einem Problem umgehen?"
+"11:55, 15.9.2023",Teilnehmende Person,Sie würden beim Lernen Lücken lassen oder mehr Zeit einplanen
+"11:56, 15.9.2023",Forscher,Was denkst du über solche Methoden?
+"11:56, 15.9.2023",Teilnehmende Person,Für mehr Sicherheit würde ich mir mehr Zeit einplanen
+"11:57, 15.9.2023",Forscher,"Ich verstehe, du würdest also mehr Zeit einplanen."
+"11:57, 15.9.2023",Teilnehmende Person,Ja genau
+"11:57, 15.9.2023",Forscher,"Ich fasse nochmal zusammen: Der Kurs umfasst sehr viel Stoff, und du bist dir zurzeit unsicher, wie du am besten vorgehen solltest. In der Vergangenheit hast du Zusammenfassungen geschrieben, jedoch warst du damit noch nicht ganz zufrieden. Außerdem ist Zeit ein Problem für dich. Stimmt das?"
+"11:57, 15.9.2023",Teilnehmende Person,Ja
+"11:58, 15.9.2023",Forscher,"Auf einer Skala von 1 bis 10, wie wichtig ist dieses Thema für dich?"
+"11:58, 15.9.2023",Teilnehmende Person,8
+"11:58, 15.9.2023",Forscher,"Also eine 8. Wie ich sehe, ist das Thema wichtig für dich. Ist es für dich in Ordnung, wenn wir auf Basis dieses Themas ein konkretes Ziel für dich formulieren?"
+"11:59, 15.9.2023",Teilnehmende Person,Gerne
+"11:59, 15.9.2023",Forscher,"Ich möchte nun mit dir ein Ziel formulieren. Zielformulierung im Lerncoaching bietet Klarheit, fördert die Motivation und ermöglicht eine messbare Überwachung des Fortschritts. "
+"11:59, 15.9.2023",Teilnehmende Person,Ja super
+"11:59, 15.9.2023",Forscher,"Super! Um ein Ziel genau formulieren zu können möchte ich mit dir die SMART – Regel verwenden. SMART ist ein Akronym und steht für: Spezifisch, Messbar, Anspruchsvoll/Attraktiv, Realistisch und Terminiert. Lass uns die einzelnen Schritte einmal gemeinsam durchgehen."
+"11:59, 15.9.2023",Forscher,1.	Was genau möchtest du in deinen eigenen Worten erreichen?
+"12:01, 15.9.2023",Teilnehmende Person,Ich möchte eine verständliche und strukturierte Zusammenfassung erstellen und dafür ausreichend Zeit einplanen
+"12:01, 15.9.2023",Forscher,"2.	Woran würdest du merken, dass du dein Ziel erreicht hast?"
+"12:02, 15.9.2023",Teilnehmende Person,Wenn ich meine Zusammenfassung gut nutzen kann und vor der Klausur ohne Zeitdruck lernen kann.
+"12:02, 15.9.2023",Forscher,3.	Warum ist dieses Ziel wichtig für dich?
+"12:02, 15.9.2023",Teilnehmende Person,Weil es mein Studium im allgemeinen erleichtern würde
+"12:02, 15.9.2023",Forscher,4.	Ist das Ziel realistisch für dich?
+"12:03, 15.9.2023",Teilnehmende Person,"Wenn ich mich selbst gut organisiere, bestimmt"
+"12:03, 15.9.2023",Forscher,5.	Bis wann möchtest du dein Ziel erreicht haben?
+"12:03, 15.9.2023",Teilnehmende Person,Mindestens zwei Wochen vor der Klausur
+"12:04, 15.9.2023",Forscher,Vielen Dank für deine Antworten! Lass uns nun die gesammelten Informationen in einem oder maximal zwei Sätzen zusammenfassen. Hier ist ein Beispiel für dich: 
+"12:08, 15.9.2023",Teilnehmende Person,"Innerhalb des nächsten Semesters strebe ich an, mich durch eine gut strukturierte sowie verständlich formulierte Zusammenfassung und ausreichend Zeit zuverlässig und stressfrei auf die kommende Klausur vorzubereiten, um damit mein Studium besser abschließen zu können, anhand eines guten Managements meinerselbst."
+"12:08, 15.9.2023",Forscher,"Prima! Ich danke dir für deine aktive Mitarbeit. Zum Abschluss besprechen wir gemeinsam, wie du dein definiertes Ziel in die Praxis umsetzen kannst."
+"12:09, 15.9.2023",Teilnehmende Person,Bereits während der Vorlesungszeit jedes abgeschlossene Kapitel weitestgehend zusammenzufassen
+"12:09, 15.9.2023",Forscher,"Ich verstehe, du möchtest Kapitel bereits während der Vorlesungszeit zusammenfassen."
+"12:10, 15.9.2023",Teilnehmende Person,"Ja, um damit Zeit im gleichen Zuge Zeit zu sparen"
+"12:10, 15.9.2023",Forscher,"Gibt es noch Möglichkeiten, wie du die Zusammenfassungen effizienter gestalten könntest, um noch mehr Zeit zu sparen?"
+"12:11, 15.9.2023",Teilnehmende Person,"Die wichtigsten Punkte der Kapitel möglichst in Stichpunkten, aber verständlich aufzuschreiben"
+"12:11, 15.9.2023",Forscher,"Stell dir vor, der Kurs wäre vorbei, und du hättest erfolgreich den Stoff strukturiert. Wie fühlst du dich dabei?"
+"12:11, 15.9.2023",Teilnehmende Person,Sehr gut und erleichtert
+"12:12, 15.9.2023",Forscher,Super!
+"12:13, 15.9.2023",Teilnehmende Person,"Mir täglich To Do listen schreiben, für einen Überblick"
+"12:13, 15.9.2023",Forscher,Vielen Dank für deine Lösungsvorschläge. Ich wünsche dir viel Erfolg bei der Umsetzung deines Zieles!
+"12:14, 15.9.2023",Teilnehmende Person,Vielen Dank für das tolle Coaching! :)
+"12:14, 15.9.2023",Forscher,Vielen Dank für deine Teilnahme an dieser Studie! Wende dich nun an den Betreuer.
