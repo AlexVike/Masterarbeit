@@ -23,7 +23,7 @@ Dieser Ordner enthält alle notwendigen Dateien zur Implementierung und zum Betr
 
 - Datenbank.db: Datenbank des Projektes.
 - chatbot_tel_erste_session.py: Mit dieser Datei kann der Chatbot initialisiert werden.
-- gpt_lerncoach_neutral.py: Funktionen auf denen die Chatbots zugreifen. OpenAI API Key muss eingesetzt werden bevor es gestartet wird.
+- gpt_lerncoach_neutral.py: Funktionen, auf die die Chatbots zugreifen. OpenAI API Key muss eingesetzt werden, bevor es gestartet wird.
 - messages.py: Vorgefertigte Antworten im Chatverlauf.
 
   Die SQLite-Datenbank besteht aus sechs Tabellen, die speziell für die Verwaltung von Chat-Sitzungen und Benutzerinteraktionen konzipiert sind. Hier ist eine detaillierte Beschreibung jeder Tabelle:
