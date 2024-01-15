@@ -8,8 +8,8 @@
 ## 00-Auswertung
 Der vorliegende Ordner enthält die statistische Analyse, die in der Masterarbeit verwendet wurde. Die detaillierten Ergebnisse und die dazugehörige Diskussion sind in den entsprechenden Abschnitten 'Ergebnisse' und 'Diskussion' der Arbeit zu finden.
 
-- Ordner 1-6: Aufteilung der Datensätze der Subskalen des ```motivated strategies for learning questionnaire```. Deskreptive Statistiken der Subskalen.
-- Ordner 7. Gesamtauswertung: Auswertung des abhängigen und unabhängigen t-Tests. Zusammenfassende deskreptive Statistik.
+- Ordner 1-6: Aufteilung der Datensätze der Subskalen des ```motivated strategies for learning questionnaire```. Deskriptive Statistiken der Subskalen.
+- Ordner 7. Gesamtauswertung: Auswertung des abhängigen und unabhängigen t-Tests. Zusammenfassende deskriptive Statistik.
 - Code: Programmatische Lösung der statistischen Analyse.
 - POS LC NC: Visuelle Analyse des ```part-of-speech tagging```.
 - Topic Modelling: Visuelle Analyse des ```Topic Modelling```.
