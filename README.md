@@ -1,6 +1,7 @@
 # Masterarbeit Mila
 
-![Starting Scene]([https://github.com/JaaaNina/-Tagebuch-fuer-Hunde--App/blob/main/00-General/cocker-spaniel-gff3d85427_1920.jpg](https://myfiles.uni-regensburg.de/filr/public-link/file-download/0447879c8d0b4802018d0c528a51045d/112305/-8414937174357964761/2330f179-d2e5-45d6-88ae-016ee2f53660.jpg))
+<img src="https://github.com/AlexVike/Masterarbeit/blob/main/Chatbot_Telegram_BIld.jpg" width="300">
+
 
 - [00-Auswertung](https://github.com/AlexVike/Masterarbeit/tree/main/Auswertung)
 - [01-Masterarbeit Code](https://github.com/AlexVike/Masterarbeit/tree/main/Masterarbeit%20Code)
