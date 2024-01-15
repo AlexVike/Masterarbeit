@@ -9,8 +9,6 @@ from aiogram import Bot, Dispatcher, Router, types
 from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.filters import Command
-from aiogram.filters import Filter
-from aiogram.types import Message, PollAnswer
 from aiogram.utils.markdown import hbold
 from datetime import datetime, timedelta
 
@@ -21,8 +19,7 @@ from messages import UNIFIED_INTRO_MESSAGE, start, end_chat
 
 # Bot token can be obtained via https://t.me/BotFather
 
-TOKEN = "6598818083:AAGP9RIBAq_5enef0sYMm-OqcSKbG_JvyWc" # Live
-#TOKEN = "6843369687:AAFpvBX0lgFYSRfFa3c_9hzmAYinz8J3x_Y" # Production
+TOKEN = "IHR_Token" # Token einsetzen
 # All handlers should be attached to the Router (or Dispatcher)
 dp = Dispatcher()
 

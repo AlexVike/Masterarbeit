@@ -4,7 +4,6 @@ import sqlite3
 import time
 import aiohttp
 from typing import Optional
-import asyncio
 import json
 import os
 from messages import (
@@ -24,7 +23,7 @@ from messages import (
     end_chat_zweite_session,
 )
 
-openai.api_key = ""
+openai.api_key = "IHR_API_SCHLÜSSEL" # API Key einsetzen
 
 
 class OpenAiInterface:
