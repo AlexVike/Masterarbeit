@@ -4,7 +4,6 @@
 - [01-Masterarbeit Code](https://github.com/AlexVike/Masterarbeit/tree/main/Masterarbeit%20Code)
 - [02-Vorstudie](https://github.com/AlexVike/Masterarbeit/tree/main/Vorstudie)
 
-Die Ordner und die Deliverables werden nun einzeln beschrieben:
 
 ## 00-Auswertung
 Der vorliegende Ordner enthält die statistische Analyse, die in der Masterarbeit verwendet wurde. Die detaillierten Ergebnisse und die dazugehörige Diskussion sind in den entsprechenden Abschnitten 'Ergebnisse' und 'Diskussion' der Arbeit zu finden.
@@ -17,7 +16,7 @@ Der vorliegende Ordner enthält die statistische Analyse, die in der Masterarbei
 - Wordcloud LC NC: Visuelle Analyse der ```Wordcloud```.
 
 ## 01-Masterarbeit Code
-In diesem Ordner ist die Umsetzung der Chatbots zu finden. Zusätzlich kann die Datenbank beobachtet werden die in diesem Projekt verwendet wurde.
+Dieser Ordner enthält alle notwendigen Dateien zur Implementierung und zum Betrieb des Chatbots, der im Rahmen der Masterarbeit entwickelt wurde. Er bietet zudem Zugriff auf die Datenbank.
 
 - Datenbank.db: Datenbank des Projektes.
 - chatbot_tel_erste_session.py: Mit dieser Datei kann der Chatbot initialisiert werden.
@@ -52,18 +51,50 @@ In diesem Ordner ist die Umsetzung der Chatbots zu finden. Zusätzlich kann die 
     - **Felder**: Anmeldedetails, Chat-ID, Zeitstempel.
 
 
-## 02-Anforderungsspezifizierung
-In diesem Ordner sind die Deliverables des Anforderungsdokument, der Hierarchischen Task Analyse und der Personas, User stories, Use-cases zu finden. In diesem Teil der Arbeit ist die Basis der Anforderungserhebung spezifiziert worden.
-- Personas, User stories, Use-cases: Beinhaltet eine PDF-Datei mit allen Personas, User stories und Use-cases.
-- Hierarchische Taskanalye: Beihnaltet die Schlüsseltasks und die Taskanalyse.
-- Anforderungsdokument: Beinhaltet das Anforderungsdokument welches auf der Anforderungserhebung und der restlichen Anforderungsspezifizierung basiert. Aus diesem wird ersichtlich, welche Features die App beinhalten sollte. Jedoch sind nicht alle Anforderungen des Dokumentes übernommen worden. Die Gründe dafür sind im Bericht zu finden.
+## 02-Vorstudie
+Dieser Ordner enthält die Wizard-of-Oz Vorstudie.
 
-## 03-Iterativer Designprozess
-In diesem Ordner sind drei Videos zu den unterschiedlichen Prototypen zu finden. In diesem Projekt wurden ein Paper-Prototype, ein Medium-Fidelity-Prototype und ein High-Fidelity-Prototype erstellt. Zusätzlich ist der High-Fidelity-Prototype anhand der UE-Tests verbessert worden. Genaue Erklärungen und Bilder der Prototypen sind im Bericht zu finden.
-- Low-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
-- Medium-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
-- High-Fidelity-Prototype: Beinhaltet das Video des Prototypen.
+- Auswertung: Auswertung der Vorstudie.
+- Vorstudie 1-5: Chatverläufe der Vorstudie.
+- Vorstudie_Manual.docx: Manual der Vorstudie für den Wizard.
 
-## 04-Summative Evaluation
-In diesem Ordner ist die Evaluation des High-Fidelity-Prototype zu finden. Mithilfe dieser Auswertung ist der High-Fidelity-Prototype verbessert worden. Mehr dazu in dem Bericht in 00-General.
-- Evaluation des Prototypen: Beinhaltet die Vorabfragebögen der Teilnehmer der UE-Tests. Daneben ist exemplarisch eine Einverständniserklärung hochgeladen worden, die die Teilnehmer unterschrieben haben. Beobachter, Notizen und die Testunterlagen der UE-Tests sind hier zu finden. Diese zeigen die Vorbereitung auf die Tests und welche Notizen dabei entstanden sind. Mit diesen Notizen und den gesammelten Daten ist die Auswertung entstanden, die hier hochgeladen wurde.
+# Installationsanleitung für die Studie
+
+Befolgen Sie diese Schritte, um die Chatbots für das Masterarbeitsprojekt einzurichten und zu betreiben.
+
+## Voraussetzungen
+
+- Stellen Sie sicher, dass Python 3.x auf Ihrem System installiert ist.
+
+## Installation
+
+### Schritt 1: OpenAI API-Schlüssel besorgen
+
+- Registrieren Sie sich bei [OpenAI](https://openai.com/) und generieren Sie einen API-Schlüssel.
+
+### Schritt 2: Erforderliche Python-Bibliotheken installieren
+
+Öffnen Sie Ihre Kommandozeile und führen Sie folgende Befehle aus:
+
+```bash
+pip install openai
+pip install sqlite3
+pip install aiohttp
+pip install aiogram
+```
+### Schritt 3: Telegram-Bot erstellen
+Schreiben Sie mit dem [BotFather](https://telegram.me/BotFather) auf Telegram, um einen neuen Bot zu erstellen und erhalten Sie den Token.
+
+### Schritt 4: API-Schlüssel und Token
+Fügen Sie Ihren OpenAI API-Schlüssel im Code bei `openai.api_key = "IHR_API_SCHLÜSSEL"` ein.
+Fügen Sie Ihren Telegram Token im Code bei `TOKEN = "IHR_Token"` ein.
+
+### Schritt 5: Datenbank vorbereiten
+Stellen Sie sicher, dass die Datei `Datenbank.db` existiert und das erforderliche Schema aufweist.
+
+### Schritt 6: Chatbot ausführen
+Führen Sie das Hauptskript aus, um den Chatbot zu starten:
+
+```bash
+python chatbot_tel_erste_session.py
+```
