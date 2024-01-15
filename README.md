@@ -1,4 +1,7 @@
-# Masterarbeit
+# Masterarbeit Mila
+
+<img src="https://github.com/AlexVike/Masterarbeit/blob/main/Chatbot_Telegram_BIld.jpg" width="300">
+
 
 - [00-Auswertung](https://github.com/AlexVike/Masterarbeit/tree/main/Auswertung)
 - [01-Masterarbeit Code](https://github.com/AlexVike/Masterarbeit/tree/main/Masterarbeit%20Code)
