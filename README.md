@@ -42,7 +42,7 @@ Dieser Ordner enthält alle notwendigen Dateien zur Implementierung und zum Betr
   
   - **Master_Test**: 
     - **Zweck**: Speicherung der normalen Chatverläufe.
-    - **Felder**: Chat-ID, Nutzername (Human), Chatbot-Name, Phase der Interaktion, Gruppenzugehörigkeit, Zeitstempel.
+    - **Felder**: Chat-ID, Human, Chatbot, Phase der Interaktion, Gruppenzugehörigkeit, Zeitstempel.
   
   - **Zusammenfassung_chat**: 
     - **Zweck**: Bereitstellung von Zusammenfassungen von GPT-3.5.
